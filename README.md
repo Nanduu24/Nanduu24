@@ -1,4 +1,4 @@
-# Hi there, I'm NandZ! 👋
+# Hi there, I'm Nandu! 👋
 
 ## Stats:
 
