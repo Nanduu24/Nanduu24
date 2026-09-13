@@ -3,8 +3,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=4000&pause=99999&color=C08A2E&center=true&vCenter=true&width=520&height=24&lines=%E2%80%94+Issue+No.+01+%E2%80%94+Arlington%2C+2026+%E2%80%94" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=4000&pause=99999&color=8A5E14&center=true&vCenter=true&width=520&height=24&lines=%E2%80%94+Issue+No.+01+%E2%80%94+Arlington%2C+2026+%E2%80%94" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=4000&pause=99999&color=C08A2E&center=true&vCenter=true&width=520&height=24&lines=%E2%80%94+Issue+No.+01+%E2%80%94+Irving%2C+2026+%E2%80%94" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=4000&pause=99999&color=8A5E14&center=true&vCenter=true&width=520&height=24&lines=%E2%80%94+Issue+No.+01+%E2%80%94+Irving%2C+2026+%E2%80%94" />
 </picture>
 
 <h1>
@@ -269,5 +269,5 @@
 <br>
 
 <div align="center">
-<sub><samp>set in JetBrains Mono · arlington, tx · mmxxvi</samp></sub>
+<sub><samp>set in JetBrains Mono · irving, tx · mmxxvi</samp></sub>
 </div>
