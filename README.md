@@ -187,9 +187,9 @@
 <b>04 &nbsp; Published</b>
 </samp>
 
-> **Sign Language Recognition Using MediaPipe Holistic and LSTM Networks** —
+> **Sign Language Caption Generation Using LSTM** —
 > IEEE International Conference for Convergence in Technology (I2CT), 2024.
-> Reached 96% recognition accuracy.
+> Real-time sign-language captioning from MediaPipe Holistic keypoints, decoded by an LSTM action-detection model.
 > [ieeexplore.ieee.org/document/10543890](https://ieeexplore.ieee.org/document/10543890)
 
 <br>
