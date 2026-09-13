@@ -244,8 +244,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nanduu24&show_icons=true&hide_border=true&bg_color=00000000&title_color=C08A2E&icon_color=C08A2E&text_color=a0a0a0&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nanduu24&show_icons=true&hide_border=true&bg_color=00000000&title_color=8A5E14&icon_color=8A5E14&text_color=4a4a4a&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=nanduu24&show_icons=true&hide_border=true&bg_color=00000000&title_color=C08A2E&icon_color=C08A2E&text_color=a0a0a0&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nanduu24&show_icons=true&hide_border=true&bg_color=00000000&title_color=8A5E14&icon_color=8A5E14&text_color=4a4a4a&include_all_commits=true&count_private=true" />
 </picture>
 
 <picture>
@@ -256,8 +256,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nanduu24&layout=compact&hide_border=true&bg_color=00000000&title_color=C08A2E&text_color=a0a0a0&langs_count=8" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanduu24&layout=compact&hide_border=true&bg_color=00000000&title_color=8A5E14&text_color=4a4a4a&langs_count=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nanduu24&layout=compact&hide_border=true&bg_color=00000000&title_color=C08A2E&text_color=a0a0a0&langs_count=8" />
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nanduu24&layout=compact&hide_border=true&bg_color=00000000&title_color=8A5E14&text_color=4a4a4a&langs_count=8" />
 </picture>
 
 </div>
