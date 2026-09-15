@@ -109,6 +109,20 @@
       <sub><samp>esports q&amp;a bot · nlp over game and match data.</samp></sub>
     </td>
   </tr>
+  <tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
+  <tr>
+    <td width="64" align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/d4d4d4" />
+        <img src="https://cdn.simpleicons.org/python/2b2b2b" width="36" height="36" alt="fleetiq" />
+      </picture>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/Sanju970/fleet_intelligence_platform"><b><samp>fleetiq</samp></b></a>
+      <br>
+      <sub><samp>grounded hybrid document agent for trucking fleets · llm router across sql / retrieval / both, inline citations, honest "i don't have that." team project.</samp></sub>
+    </td>
+  </tr>
 </table>
 
 <br>
